@@ -5,4 +5,4 @@
 
 （必做）把多线程和并发相关知识梳理一遍，画一个脑图，截图上传到 GitHub 上。 可选工具:xmind，百度脑图，wps，MindManage，或其他。
 
-答案：![多线程并发](多线程并发.png)
+答案：![多线程并发](https://github.com/harryV361/week04/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%B9%B6%E5%8F%91.png)
